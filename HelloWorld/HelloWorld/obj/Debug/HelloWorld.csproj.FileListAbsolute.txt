@@ -1,0 +1,12 @@
+C:\Users\otekingoz\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.dll
+C:\Users\otekingoz\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\otekingoz\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.dll.manifest
+C:\Users\otekingoz\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.vsto
+C:\Users\otekingoz\source\repos\HelloWorld\HelloWorld\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\otekingoz\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\otekingoz\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Ribbon1.resources
+C:\Users\otekingoz\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+C:\Users\otekingoz\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\otekingoz\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CopyComplete
+C:\Users\otekingoz\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\Users\otekingoz\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
