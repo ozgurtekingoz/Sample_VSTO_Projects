@@ -1,0 +1,13 @@
+C:\Users\otekingoz\source\repos\DropDown\DropDown\bin\Debug\DropDown.dll
+C:\Users\otekingoz\source\repos\DropDown\DropDown\bin\Debug\DropDown.pdb
+C:\Users\otekingoz\source\repos\DropDown\DropDown\bin\Debug\DropDown.dll.manifest
+C:\Users\otekingoz\source\repos\DropDown\DropDown\bin\Debug\DropDown.vsto
+C:\Users\otekingoz\source\repos\DropDown\DropDown\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\otekingoz\source\repos\DropDown\DropDown\obj\Debug\DropDown.csprojAssemblyReference.cache
+C:\Users\otekingoz\source\repos\DropDown\DropDown\obj\Debug\DropDown.Properties.Resources.resources
+C:\Users\otekingoz\source\repos\DropDown\DropDown\obj\Debug\DropDown.Ribbon1.resources
+C:\Users\otekingoz\source\repos\DropDown\DropDown\obj\Debug\DropDown.csproj.GenerateResource.cache
+C:\Users\otekingoz\source\repos\DropDown\DropDown\obj\Debug\DropDown.csproj.CoreCompileInputs.cache
+C:\Users\otekingoz\source\repos\DropDown\DropDown\obj\Debug\DropDown.csproj.CopyComplete
+C:\Users\otekingoz\source\repos\DropDown\DropDown\obj\Debug\DropDown.dll
+C:\Users\otekingoz\source\repos\DropDown\DropDown\obj\Debug\DropDown.pdb
